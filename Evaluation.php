@@ -1,1 +1,1 @@
-hi
+<?php echo 'https://azerbenazzouz.com/'; ?>
